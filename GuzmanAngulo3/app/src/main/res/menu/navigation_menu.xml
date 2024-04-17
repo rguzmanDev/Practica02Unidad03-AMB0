@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_primer_fragmento"
+        android:icon="@drawable/ic_primer_fragmento"
+        android:title="@string/primer_fragmento" />
+    <item
+        android:id="@+id/navigation_segundo_fragmento"
+        android:icon="@drawable/ic_segundo_fragmento"
+        android:title="@string/segundo_fragmento" />
+    <item
+        android:id="@+id/navigation_tercer_fragmento"
+        android:icon="@drawable/ic_tercer_fragmento"
+        android:title="@string/tercer_fragmento" />
+    <item
+        android:id="@+id/navigation_cuarto_fragmento"
+        android:icon="@drawable/ic_cuarto_fragmento"
+        android:title="@string/cuarto_fragmento" />
+</menu>

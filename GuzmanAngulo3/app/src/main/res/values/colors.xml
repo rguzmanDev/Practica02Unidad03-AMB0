@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimerFragmento">#FFEB3B</color> <!-- Amarillo -->
+    <color name="colorSegundoFragmento">#4CAF50</color> <!-- Verde -->
+    <color name="colorTercerFragmento">#FF9800</color> <!-- Naranja -->
+    <color name="colorCuartoFragmento">#607D8B</color> <!-- Azul Grisáceo -->
+    <color name="white">#FFFFFF</color> <!-- Blanco -->
+</resources>

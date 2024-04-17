@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navegación de Fragmentos</string>
+    <string name="primer_fragmento">Primer Fragmento</string>
+    <string name="segundo_fragmento">Segundo Fragmento</string>
+    <string name="tercer_fragmento">Tercer Fragmento</string>
+    <string name="cuarto_fragmento">Cuarto Fragmento</string>
+</resources>
